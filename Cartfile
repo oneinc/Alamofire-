@@ -1,2 +1,2 @@
-github "oneinc/PromiseKit" ~> 6.0
-github "oneinc/Alamofire" ~> 4.0
+github "oneinc/PromiseKit"
+github "oneinc/Alamofire"
